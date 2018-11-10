@@ -1,0 +1,6 @@
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Entidades\bin\Debug\FerreteriaApp.Entidades.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Entidades\bin\Debug\FerreteriaApp.Entidades.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Entidades\obj\Debug\FerreteriaApp.Entidades.csprojAssemblyReference.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Entidades\obj\Debug\FerreteriaApp.Entidades.csproj.CoreCompileInputs.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Entidades\obj\Debug\FerreteriaApp.Entidades.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Entidades\obj\Debug\FerreteriaApp.Entidades.pdb

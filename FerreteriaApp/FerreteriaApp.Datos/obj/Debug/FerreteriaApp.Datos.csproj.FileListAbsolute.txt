@@ -1,0 +1,11 @@
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\obj\Debug\FerreteriaApp.Datos.csprojAssemblyReference.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\obj\Debug\FerreteriaApp.Datos.csproj.CoreCompileInputs.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\bin\Debug\FerreteriaApp.Datos.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\bin\Debug\FerreteriaApp.Datos.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\bin\Debug\FerreteriaApp.Comun.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\bin\Debug\FerreteriaApp.Entidades.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\bin\Debug\FerreteriaApp.Comun.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\bin\Debug\FerreteriaApp.Entidades.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\obj\Debug\FerreteriaApp.Datos.csproj.CopyComplete
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\obj\Debug\FerreteriaApp.Datos.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Datos\obj\Debug\FerreteriaApp.Datos.pdb

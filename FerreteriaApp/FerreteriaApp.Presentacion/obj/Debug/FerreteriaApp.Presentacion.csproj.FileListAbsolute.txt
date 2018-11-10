@@ -1,0 +1,152 @@
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Presentacion.exe.config
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Presentacion.exe
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Presentacion.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csprojAssemblyReference.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmLogin.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Properties.Resources.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csproj.GenerateResource.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csproj.CoreCompileInputs.cache
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.exe
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\MaterialSkin.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csproj.CopyComplete
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmPrincipal.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmDashboard.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmVentas.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmPerfil.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Presentacion.exe.config
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Presentacion.exe
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Presentacion.pdb
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\MaterialSkin.dll
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csprojAssemblyReference.cache
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmProductoAE.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmDashboard.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmLogin.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmPerfil.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmPrincipal.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmVentas.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Properties.Resources.resources
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csproj.GenerateResource.cache
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csproj.CoreCompileInputs.cache
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.csproj.CopyComplete
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.exe
+E:\KUN\UPT\Quinto Ciclo\Programacion II\Unidad II\Proyecto Ferreteria\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmCargoAE.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmCliente.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmEmpleadoAE.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmProductoAE.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmProveedorAE.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmVenta.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Entidades.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Entidades.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmProductos.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Datos.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Comun.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Datos.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\FerreteriaApp.Comun.pdb
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmClientes.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmClienteAE.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Otros.FrmCategorias.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Otros.FrmSubCategorias.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Otros.FrmMarcas.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Otros.FrmInventarioSingle.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmCompra.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmCompras.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Otros.FrmProveedores.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Busqueda.FrmBuscarProducto.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Busqueda.FrmBuscarProveedor.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmEmpleados.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Otros.FrmChangePassword.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmMovimientos.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Acciones.FrmProductoBV.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.FrmReportes.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Vistas.FrmVistaVenta.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Vistas.FrmVistaCompra.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\EnvDTE.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\stdole.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\EnvDTE80.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\VSLangProj.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\VSLangProj80.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Newtonsoft.Json.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.MSXML.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.Build.Framework.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\VSLangProj2.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.exe.config
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Reportes.FrmVRExistenciaProductos.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Reportes.FrmVRProductosVendidos.resources
+F:\Proyectos\Proyectos C Sharp\FerreteriaApp\FerreteriaApp.Presentacion\obj\Debug\FerreteriaApp.Presentacion.Reportes.FrmVRVentasDia.resources
