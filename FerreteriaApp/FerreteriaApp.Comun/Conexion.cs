@@ -11,8 +11,7 @@ namespace FerreteriaApp.Comun
         {
             try
             {
-                Connection = new SqlConnection("Data Source=LAPTOP-9BJPC4E5;initial Catalog=FerreteriaApp;integrated Security=true");
-                //Conexion = new SqlConnection("Data Source=AEPIS11;initial Catalog=BD_VENTAS;integrated Security=true");
+                Connection = new SqlConnection("Data Source={Servidor};initial Catalog=FerreteriaApp;integrated Security=true");
                 if (Connection.State == ConnectionState.Broken || Connection.State == ConnectionState.Closed)
                 {
                     Connection.Open();
